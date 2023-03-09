@@ -1,19 +1,4 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Ryosuke Yamada</h1>
-
-<p align="center">
-  <a href="https://join.skype.com/invite/NFgsETJCYFB3">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <!-- <a href="https://discord.gg/uBApurqJ">
-    <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" /> -->
-  </a>&nbsp;&nbsp;
-  <a href="mailto:ryosukeyamada0430@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/adnahmed/adnahmed/output/github-snake.svg)
-
+<h1 align="center" dir="auto">👋 Hi, I’m Agile Super FullStack Developer</h1>
 
 <p align="center">
   <h3 align="center">A Passionate & Agile FullStack Developer +7 years exp</h3>
